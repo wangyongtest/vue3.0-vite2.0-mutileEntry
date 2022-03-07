@@ -1,0 +1,27 @@
+{
+  "name": "vue3.0-vite2.0-mutileentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyongtest/vue3.0-vite2.0-mutileEntry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyongtest/vue3.0-vite2.0-mutileEntry/issues"
+  },
+  "homepage": "https://github.com/wangyongtest/vue3.0-vite2.0-mutileEntry#readme",
+  "devDependencies": {
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.13"
+  },
+  "dependencies": {
+    "vite": "^2.8.6"
+  }
+}
